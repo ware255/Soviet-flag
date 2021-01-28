@@ -1,3 +1,6 @@
+/*
+    まだ、完成していません。
+*\
 #include <stdio.h>
 #include <stdlib.h>
 
