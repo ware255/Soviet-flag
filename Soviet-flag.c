@@ -1,26 +1,32 @@
 /*
-    まだ、完成していません。
+    このAA(アスキーアート)は、ある人がDiscordでメッセージを送った時に、すぐにコピペしたものです。
+    実はまだ完成してないかもしれない。
 *\
 #include <stdio.h>
 #include <stdlib.h>
 
 int main()
 {
-    printf("            ■\n");
-    printf("              ■\n");
-    printf("                ■\n");
-    printf("                  ■\n");
-    printf("                    ■\n");
-    printf("   ■■■              ■\n");
-    printf("   ■■■ ■            ■\n");
-    printf("        ■           ■\n");
-    printf("         ■          ■\n");
-    printf("           ■■     ■\n");
-    printf("            ■■  ■\n");
-    printf("        　    ■■\n");
-    printf("            ■ ■■\n");
-    printf("          ■　　 ■■\n");
-    printf("\n");
-    printf("\n");
+	printf("\n");
+	printf("                !#########       #\n");
+	printf("            !########!          ##!\n");
+	printf("         !########!               ###\n");
+	printf("      !##########                  ####\n");
+	printf("    ######### #####                ######\n");
+	printf("     !###!      !####!              ######\n");
+	printf("       !           #####            ######!\n");
+	printf("                     !####!         #######\n");
+	printf("                        #####       #######\n");
+	printf("                          !####!   #######!\n");
+	printf("                             ####!########\n");
+	printf("          ##                   ##########\n");
+	printf("        ,######!          !#############\n");
+	printf("      ,#### ########################!####!\n");
+	printf("    ,####'     ##################!'    #####\n");
+	printf("  ,####'            #######              !####!\n");
+	printf(" ####'                                      #####\n");
+	printf(" ~##                                          ##~\n");
+	printf("\n");
+	getchar();
     return 0;
 }
