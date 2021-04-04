@@ -5,3 +5,6 @@
 ```
 gcc Soviet-flag.c -o Soviet-flag -Wall
 ```
+or
+```
+clang Soviet-flang.c -o Soviet-flag -Wall
