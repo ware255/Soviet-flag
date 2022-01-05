@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void) {
+int main() {
 	const char str[] =
 	"\n                !#########       #\n"
 	"            !########!          ##!\n"
@@ -30,34 +30,3 @@ int main(void) {
 	getchar();
 	return 0;
 }
-
-/*変更前↓
-#include <stdio.h>
-#include <stdlib.h>
-
-int main()
-{
-	printf("\n");
-	printf("                !#########       #\n");
-	printf("            !########!          ##!\n");
-	printf("         !########!               ###\n");
-	printf("      !##########                  ####\n");
-	printf("    ######### #####                ######\n");
-	printf("     !###!      !####!              ######\n");
-	printf("       !           #####            ######!\n");
-	printf("                     !####!         #######\n");
-	printf("                        #####       #######\n");
-	printf("                          !####!   #######!\n");
-	printf("                             ####!########\n");
-	printf("          ##                   ##########\n");
-	printf("        ,######!          !#############\n");
-	printf("      ,#### ########################!####!\n");
-	printf("    ,####'     ##################!'    #####\n");
-	printf("  ,####'            #######              !####!\n");
-	printf(" ####'                                      #####\n");
-	printf(" ~##                                          ##~\n");
-	printf("\n");
-	getchar();
-    return 0;
-}
-*/
