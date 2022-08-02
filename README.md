@@ -17,6 +17,7 @@ gccインストールしてる方は以下の方法でコンパイルしてく�
 clangインストールしてる方は(ry
 ```
 > clang Soviet-flang.c -o Soviet-flag
+```
 
 ## コンパイル(Linux)
 gccインストールしてる方は(ry
