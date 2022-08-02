@@ -9,7 +9,8 @@
 ## 対応OS
 どのOSにも対応してるかと...
 
-## コンパイル(Windows)
+## コンパイル方法
+### Windows
 gccインストールしてる方は以下の方法でコンパイルしてください。
 ```
 > gcc Soviet-flag.c -o Soviet-flag
@@ -18,8 +19,7 @@ clangインストールしてる方は(ry
 ```
 > clang Soviet-flang.c -o Soviet-flag
 ```
-
-## コンパイル(Linux)
+### Linux
 gccインストールしてる方は(ry
 ```
 $ gcc Soviet-flag.c -o Soviet-flag
