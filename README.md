@@ -1,3 +1,6 @@
+<!--
+字数稼ぎ気持ちよすぎだろ！
+-->
 # Soviet-flag
 
 ソ連(ソビエト社会主義共和国連邦)国旗をコンソールに表示するプログラムです。<br>
@@ -6,14 +9,23 @@
 ## 対応OS
 どのOSにも対応してるかと...
 
-## コンパイル
+## コンパイル(Windows)
 gccインストールしてる方は以下の方法でコンパイルしてください。
+```
+> gcc Soviet-flag.c -o Soviet-flag
+```
+clangインストールしてる方は(ry
+```
+> clang Soviet-flang.c -o Soviet-flag
+
+## コンパイル(Linux)
+gccインストールしてる方は(ry
 ```
 $ gcc Soviet-flag.c -o Soviet-flag
 ```
 clangインストールしてる方は(ry
 ```
-$ clang -O3 Soviet-flang.c -o Soviet-flag
+$ clang Soviet-flang.c -o Soviet-flag
 ```
 
 ## 実行方法
